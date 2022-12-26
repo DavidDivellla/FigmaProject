@@ -1,5 +1,3 @@
-My Skype ID is : live:.cid.d5f77d8f9e3e3be2
-Please don't Say about skype on freelancer anymore!
 
 Please create an account on Gitlab and give me your username, I will share with you a private project to work on. please push this document renamed into README_Project.md in the branch you're working on, at the root of the repo. Please read this whole file before starting the project. Read it again multiple times if needed, everything is important.
 
