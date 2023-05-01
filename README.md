@@ -1,5 +1,5 @@
 
-My Skype ID: live:.cid.d5f77d8f9e3e3be2
+My Skype ID: live:.cid.c6a8dae864c09993
 
 Please dont talk about skype on freelancer anymore.
 
